@@ -1,2 +1,2 @@
 # Discord
-Discord bot for development.
+Simple utility discord bot with admin panel.
